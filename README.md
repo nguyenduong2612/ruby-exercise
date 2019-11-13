@@ -14,4 +14,4 @@
 
 * Week 7: complete chapter 10, authorization
 
-* Week 8: 
+* Week 8: complete chapter 11, send mail
