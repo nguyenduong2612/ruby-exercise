@@ -15,3 +15,7 @@
 * Week 7: complete chapter 10, authorization
 
 * Week 8: complete chapter 11, send mail
+
+* Week 9: complete chapter 12, send reset password
+
+* Week 10: complete chapter 13, 14, add microposts, following users
